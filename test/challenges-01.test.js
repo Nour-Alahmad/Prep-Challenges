@@ -16,4 +16,6 @@ describe("Challenge 01", () => {
     expect(sumNums([20, "234", "car", 41, 20, "chair"])).toStrictEqual(81);
     expect(sumNums([88, 10, 10, 46, 71])).toStrictEqual(225);
   });
-});
+  
+  });
+
